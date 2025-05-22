@@ -1,0 +1,69 @@
+[[libflame]]
+arch = "aarch64"
+git-tree-sha1 = "9b1876f60cd8bb376293efb99a3fc64cec79ae7e"
+libc = "glibc"
+os = "linux"
+
+    [[libflame.download]]
+    sha256 = "31953cd38aa7f3519121e3fcacb6142a0d50b8cd96636a8e8cd4e27836093ee6"
+    url = "https://github.com/JuliaBinaryWrappers/libflame_jll.jl/releases/download/libflame-v5.2.0+0/libflame.v5.2.0.aarch64-linux-gnu.tar.gz"
+[[libflame]]
+arch = "aarch64"
+git-tree-sha1 = "d58beb1dfccc9617620f8626740871683719cf25"
+libc = "musl"
+os = "linux"
+
+    [[libflame.download]]
+    sha256 = "a8fe18ca779118fc368ff536f7e8ecdd5539973cbb412ccfe65284f9d4363657"
+    url = "https://github.com/JuliaBinaryWrappers/libflame_jll.jl/releases/download/libflame-v5.2.0+0/libflame.v5.2.0.aarch64-linux-musl.tar.gz"
+[[libflame]]
+arch = "aarch64"
+git-tree-sha1 = "a21443935d77522a99b2067ebba750ffd597555b"
+os = "freebsd"
+
+    [[libflame.download]]
+    sha256 = "eaf420857a0fc50586efd7a536a55bd1cb1828822e64491de207b96b78381b46"
+    url = "https://github.com/JuliaBinaryWrappers/libflame_jll.jl/releases/download/libflame-v5.2.0+0/libflame.v5.2.0.aarch64-unknown-freebsd.tar.gz"
+[[libflame]]
+arch = "riscv64"
+git-tree-sha1 = "1bfc1a97524ca2e3e704978d77abf06cfe35e0ac"
+libc = "glibc"
+os = "linux"
+
+    [[libflame.download]]
+    sha256 = "b9ea18ff9788e03ff4fff2f5b94a22f01de2e1926b89e499366303262cd90ce5"
+    url = "https://github.com/JuliaBinaryWrappers/libflame_jll.jl/releases/download/libflame-v5.2.0+0/libflame.v5.2.0.riscv64-linux-gnu.tar.gz"
+[[libflame]]
+arch = "x86_64"
+git-tree-sha1 = "740641d3a4f9cd9a518f457ad737762198c055c2"
+libc = "glibc"
+os = "linux"
+
+    [[libflame.download]]
+    sha256 = "c959bd5a225208269beb864dbc15a07ea4faf59f7af5a063dc6b3cf1e5c9e0ce"
+    url = "https://github.com/JuliaBinaryWrappers/libflame_jll.jl/releases/download/libflame-v5.2.0+0/libflame.v5.2.0.x86_64-linux-gnu.tar.gz"
+[[libflame]]
+arch = "x86_64"
+git-tree-sha1 = "3eea052b023fb54ee555018114af107427f8e5ee"
+libc = "musl"
+os = "linux"
+
+    [[libflame.download]]
+    sha256 = "74d7bd70ae638563f11fac40fec2bfc3c9f9c1166588d037c2c4ce96bbd2e640"
+    url = "https://github.com/JuliaBinaryWrappers/libflame_jll.jl/releases/download/libflame-v5.2.0+0/libflame.v5.2.0.x86_64-linux-musl.tar.gz"
+[[libflame]]
+arch = "x86_64"
+git-tree-sha1 = "708487eb97deb931897044467a63929eeba53ba8"
+os = "freebsd"
+
+    [[libflame.download]]
+    sha256 = "6c7aa8726a3c2869e31e496d0ba53380240cc92cdc7d788e5370eadb196d0ca3"
+    url = "https://github.com/JuliaBinaryWrappers/libflame_jll.jl/releases/download/libflame-v5.2.0+0/libflame.v5.2.0.x86_64-unknown-freebsd.tar.gz"
+[[libflame]]
+arch = "x86_64"
+git-tree-sha1 = "f129d47b3ed0a122b3464245bc2a28c9ce543cd4"
+os = "windows"
+
+    [[libflame.download]]
+    sha256 = "9274280cad442abfbbc7f15bc1bf58b7072277042296240f54664f0ddb2e9026"
+    url = "https://github.com/JuliaBinaryWrappers/libflame_jll.jl/releases/download/libflame-v5.2.0+0/libflame.v5.2.0.x86_64-w64-mingw32.tar.gz"
